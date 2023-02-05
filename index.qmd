@@ -1,0 +1,29 @@
+---
+title: "Cedric Rossi"
+lang: fr
+about:
+  template: jolla
+  image: images/profile-sq-small.jpeg
+  image-shape: rounded
+  image-width: 200px
+  links:
+      - icon: mastodon
+        text: Mastodon
+        href: https://piaille.fr/@cedricr
+        rel: "me"
+      - icon: github
+        text: GitHub
+        href: https://github.com/cedricr
+        rel: "me"
+      - icon: linkedin
+        text: LinkedIn
+        href: https://github.com/cedricr  
+        rel: "me"  
+      - icon: envelope-at
+        text: contact
+        href: mailto:contact@cedricrossi.fr
+---
+
+
+
+### Cartes • Données • Web

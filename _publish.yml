@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 15c42866-61d3-4756-aa3f-b970f39d9ae9
+      url: 'https://cedricrossi.fr'
