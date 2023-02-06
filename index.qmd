@@ -17,7 +17,7 @@ about:
         rel: "me"
       - icon: linkedin
         text: LinkedIn
-        href: https://github.com/cedricr  
+        href: https://www.linkedin.com/in/cedric-rossi/  
         rel: "me"  
       - icon: envelope-at
         text: contact
