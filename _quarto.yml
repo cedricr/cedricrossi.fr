@@ -1,18 +1,17 @@
 project:
   type: website
 
-
 website:
   title: "Cedric Rossi"
+  navbar: false
+  sidebar: false
   repo-url: https://github.com/cedricr/cedricrossi.fr
   repo-actions: [edit, issue]
-  # navbar: 
-  #   background: light
+  favicon: images/profile-sq-small-bw.png
   page-footer: 
-    right: "@ Cedric Rossi 2023 <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><img alt='Creative Commons License' style='margin-left: 0.5rem; vertical-align: text-top;' src='https://i.creativecommons.org/l/by-sa/4.0/80x15.png' /></a>"
+    center: "@ Cedric Rossi 2023 <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><img alt='Creative Commons License' style='margin-left: 0.5rem; vertical-align: text-top;' src='images/cc-by-sa.png' /></a>"
   search: false 
 format:
   html:
-    theme: flatly
+    theme: [flatly, theme.scss]
     fontsize: 16px
-    css: styles.css
